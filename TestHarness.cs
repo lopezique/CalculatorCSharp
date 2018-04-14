@@ -5,7 +5,6 @@ using NUnit.Framework;
 
 namespace Calculator
 {
-
     [TestFixture]
     public class Test_Appending
     {
